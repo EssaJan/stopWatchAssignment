@@ -1,0 +1,27 @@
+body{
+    /* background-color:#fece2f; */
+    text-align: center;
+}
+h1{
+    display: inline-block;
+    color: white;
+    width: 100px;
+    background-color: white;
+    color: red;
+}
+h2{
+    color: white; 
+    font-weight: lighter;
+    width: 100px;
+    text-align: center;
+   
+}fieldset{
+    max-width: 40%;
+    margin: 0 auto;
+    background-color:#fece2f;
+    margin-top: 50px;
+
+}button{
+    width: 100px;
+    height: 40px;
+}
